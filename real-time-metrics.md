@@ -1,4 +1,6 @@
 # Real-time Metrics
+Date now is 2023-09-20
+Time now is 09:00 am
 
 ## Edge Caching
 Sum of data transferred through Edge Caching. Displays the data in bytes divided by Data Transferred, Data Transferred In, and Data Transferred Out.

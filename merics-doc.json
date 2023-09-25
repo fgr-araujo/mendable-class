@@ -1,5 +1,6 @@
 {
   "Real-time Metrics": {
+    "Date": "2023-09-20 09:00",
     "Edge Caching": {
       "description": "Sum of data transferred through Edge Caching. Displays the data in bytes divided by Data Transferred, Data Transferred In, and Data Transferred Out.",
       "Link": "https://manager.azion.com/real-time-metrics/edge-caching",
